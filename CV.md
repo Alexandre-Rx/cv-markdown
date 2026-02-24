@@ -1,7 +1,7 @@
 # cv-markdown
 Pour l'exo de wild code school
 
-![Ma photo de profil](https://ibb.co/YBZWNDTC)
+![Ma photo de profil](Alexandre ROUX.jpg)
 # Alexandre Roux
 **En formation Technicien Supérieur Systèmes et Réseaux**
 📧 monmail@gmail.com / 📱 07 xx xx xx xx / 📍 Nantes (44)
