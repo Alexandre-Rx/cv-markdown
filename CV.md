@@ -10,7 +10,7 @@ Pour l'exo de wild code school
 
 ---
 
-## 🎯 Profil
+## 🎯 Présentation
 Après plus de 12 ans d'expérience dans le digital, je me réoriente vers les métiers des systèmes et réseaux. Curieux et méthodique, je souhaite mettre mes compétences au service de ce nouveau domaine. Pour ce faire, je m'engage dans un parcours de formation afin de préparer le titre de Technicien Supérieur Systèmes et Réseaux. Cette démarche me permettra d'acquérir une expertise technique solide, pour contribuer activement à l'efficacité et à la bonne gestion des infrastructures.
 
 ## 💼 Expériences Professionnelles
@@ -31,7 +31,7 @@ Après plus de 12 ans d'expérience dans le digital, je me réoriente vers les m
 *- Animation des communautés, la mise en place d'une stratégie d'influence.*
 *- Suivi des performances (KPIs) et la veille de l'e-réputation.*
 
-## 🎓 Diplômes
+## 🎓 Formation
 
 ### Master 2 e-commerce
 *📅 2016*
@@ -45,7 +45,7 @@ Après plus de 12 ans d'expérience dans le digital, je me réoriente vers les m
 ### BAC STG Marketing
 *📅 2011*
 
-## 🛠️ Compétences & Passions
+## 🛠️ Compétences & Hobbies
 
 - **Domaines de compétences :** Travail d'équipe, IA, Informatique, Communication, Créativité, Anglais, Humour.
 - **Passions et activités :** Musique, Voyages, Escape Game, Jeux vidéo, Sports, Cinéma, Photographie, F1.
